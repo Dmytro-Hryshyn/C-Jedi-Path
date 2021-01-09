@@ -59,3 +59,7 @@
 - [ ] 3-5. Write the function `itob(n, s, b)` that converts the integer `n` into a base `b` character representation in the string `s`. In particular, `itob(n, s, 16)` formats `n` as hexadecimal integer in `s`.
 
 - [ ] 3-6. Write a version of `itoa()` that accepts three arguments instead of two. The third argument is a minimum field width; the converted number must be padded with blanks on the left if necessary to make it wide enough.
+
+#### Chapter 4: Functions and Program Structure
+
+- [ ] 4.1. Write the function `strrIndex(char line[], char pattern[])` which returns the position of the rightmost occurrence of `pattern` in `line`, or -1 if there is none.
