@@ -1,9 +1,9 @@
 # C programming language
 
-## Learning path from Padawan To Jedi
+### Learning path from Padawan To Jedi
 
 This is my self-taught path in C programming language. <br>
-Purpose of this repository make my learning easier, and more clear. <br>
+Purpose of this repository make my learning path easier, and clear. <br>
 As I go, I need to track my progress,  practice a lot, and built robust code base.<br>
 
 Wish me good luck.
