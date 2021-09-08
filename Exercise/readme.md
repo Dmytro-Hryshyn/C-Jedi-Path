@@ -1,7 +1,7 @@
 ### Exercise list
 
 #### Chapter 1: **A Tutorial Introduction**
-
+- [x] (1-1.)[./1-1.c] Run the "Hello, world!" program on your system. Experiment with leaving out parts of the program, to see what error message you get.
 - [x] 1-13. Write a program to print a histogram of the length of words in it's input. It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging.
 
 - [x] 1-14. Write  a program to print a histogram of the frequencies of different characters in it's input.
